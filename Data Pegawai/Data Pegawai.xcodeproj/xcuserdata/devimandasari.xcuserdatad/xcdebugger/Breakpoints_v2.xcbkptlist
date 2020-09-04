@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "74A3AC77-267F-4F30-BE62-DC4C196B735C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "938E4399-35B9-4249-AACF-4B1F544CEC1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Data Pegawai/AddFormEmployeesController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "AddFormEmployeesController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "938E4399-35B9-4249-AACF-4B1F544CEC1F - b887293f67295095"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Data_Pegawai.AddFormEmployeesController.emailTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Data Pegawai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devimandasari/Desktop/Data%20Pegawai/Data%20Pegawai/AddFormEmployeesController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "938E4399-35B9-4249-AACF-4B1F544CEC1F - 5fbb4401dceaaca9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Data_Pegawai.AddFormEmployeesController.emailTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Data Pegawai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devimandasari/Desktop/Data%20Pegawai/Data%20Pegawai/AddFormEmployeesController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "938E4399-35B9-4249-AACF-4B1F544CEC1F - ded76f86ee4f796"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Data_Pegawai.AddFormEmployeesController.emailTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Data Pegawai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devimandasari/Desktop/Data%20Pegawai/Data%20Pegawai/AddFormEmployeesController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "938E4399-35B9-4249-AACF-4B1F544CEC1F - 1cea50c751c7695e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Data_Pegawai.AddFormEmployeesController.emailTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Data Pegawai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devimandasari/Desktop/Data%20Pegawai/Data%20Pegawai/AddFormEmployeesController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "938E4399-35B9-4249-AACF-4B1F544CEC1F - 7d1bba0228826c16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Data_Pegawai.AddFormEmployeesController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Data_Pegawai.AddFormEmployeesController"
+                  moduleName = "Data Pegawai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devimandasari/Desktop/Data%20Pegawai/Data%20Pegawai/AddFormEmployeesController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "539">
+               </Location>
+               <Location
+                  uuid = "938E4399-35B9-4249-AACF-4B1F544CEC1F - 676fc0e18c2bad6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Data_Pegawai.AddFormEmployeesController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Data_Pegawai.AddFormEmployeesController&gt;"
+                  moduleName = "Data Pegawai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devimandasari/Desktop/Data%20Pegawai/Data%20Pegawai/AddFormEmployeesController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
